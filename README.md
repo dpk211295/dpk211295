@@ -1,3 +1,4 @@
+![logo](https://github.com/dpk211295/dpk211295/blob/main/wp10207928-data-analyst-wallpapers.jpg)
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A passionate Data Analyst having strong foundation in Excel, SQL & Python.</h3>
 <img align= "right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
